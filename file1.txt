@@ -1,1 +1,2 @@
 Alteracoes efetuadas no branch NovaFeature
+Alteracao no branch MASTER
